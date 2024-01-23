@@ -2,7 +2,7 @@
 
 ![Udvidelsesikon](ChromePlugin/icon.png)
 
-## Beskrivelse
+## Beskrivelse af Plugin
 
 Denne Chrome-udvidelse udfylder automatisk en formular med foruddefinerede værdier.
 
