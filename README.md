@@ -1,6 +1,6 @@
 # Chrome Udvidelse: Form Autofiller
 
-![Udvidelsesikon](icon.png)
+![Udvidelsesikon](ChromePlugin/icon.png)
 
 ## Beskrivelse
 
