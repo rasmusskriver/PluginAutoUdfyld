@@ -1,33 +1,32 @@
-# Form Autofiller Chrome Extension
+# Chrome Udvidelse: Form Autofiller
 
-![Extension Icon](icon.png)
+![Udvidelsesikon](icon.png)
 
-## Description
+## Beskrivelse
 
-This Chrome extension autofills a form with predefined values.
+Denne Chrome-udvidelse udfylder automatisk en formular med foruddefinerede værdier.
 
-## Features
+## Funktioner
 
-- Autofill form fields with predefined data.
-- Easy-to-use pop-up interface.
+- Autofyld formularfelter med foruddefinerede data.
+- Let anvendelig pop-up-grænseflade.
 
 ## Installation
 
-1. Download or clone this repository.
-2. Open Chrome and go to `chrome://extensions/`.
-3. Enable "Developer mode" in the top right corner.
-4. Click "Load unpacked" and select the extension folder.
+1. Download eller klon dette repository.
+2. Åbn Chrome og gå til `chrome://extensions/`.
+3. Aktivér "Udviklertilstand" i øverste højre hjørne.
+4. Klik på "Indlæs upakket" og vælg mappen med udvidelsen.
 
-## Usage
+## Brug
 
-1. Click on the extension icon in the browser toolbar.
-2. Press the "Autofill Form" button in the pop-up.
+1. Klik på udvidelsesikonet i browserens værktøjslinje.
+2. Tryk på knappen "Autofyld Formular" i pop-up-vinduet.
 
-## Configuration
+## Konfiguration
 
-You can customize the autofill data in the `popup.js` file.
+Du kan tilpasse autofyld-data i filen `popup.js`.
 
-## License
+## Licens
 
-This project is licensed under the [MIT License](LICENSE).
-# PluginAutoUdfyld
+Dette projekt er licenseret under [MIT-licensen](LICENSE).
